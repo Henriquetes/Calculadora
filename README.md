@@ -1,2 +1,2 @@
-# Calculadora.py
+# Calculadora
 Calculadora CTW
