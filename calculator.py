@@ -10,7 +10,8 @@ def add(x, y):
 
 # This function multiplies two numbers
 
-
+def add(x,y)
+    return x * y
 # This function divides two numbers
 
 
