@@ -10,10 +10,13 @@ def subtracao(x,y):
 
 # This function multiplies two numbers
 
-def add(x,y)
+def multiplicacao(x,y):
     return x * y
 # This function divides two numbers
 
+
+def divisao(x,y):
+    return x / y
 
 print("Select operation.")
 print("1.Add")
