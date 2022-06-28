@@ -1,5 +1,7 @@
 # Program make a simple calculator
 
+def add(x, y):
+    return x + y
 # This function adds two numbers
 
 
